@@ -3,7 +3,8 @@ This project was developed in the academic year 2022/23 for the course Knowledge
 In this page there will be links to all the resources used for this project.
 
 ## Project purpose
-The aim of this project is to create a KG that can provide information about Trentino’s touristrelated facilities. In another word, the final KG can be used to provide a general-purpose service helping tourists to find information about the various tourism-related hospitality facilities in the region of Trentino. In a nutshell, the purpose of this project is described as:\\
+The aim of this project is to create a KG that can provide information about Trentino’s touristrelated facilities. In another word, the final KG can be used to provide a general-purpose service helping tourists to find information about the various tourism-related hospitality facilities in the region of Trentino. In a nutshell, the purpose of this project is described as:
+
 _”A service which helps the users to know about different tourist facilities in Trentino.”_
 
 ## Datasets
